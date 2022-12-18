@@ -1,13 +1,13 @@
-<h1>Hi, I'm Rianna! </h1>
+<h1>Hi, I'm Rianna! A Junior Cloud Engineer. </h1>
 
-<h2>👨‍💻 Cloud Engineer Projects:</h2>
+<h2> Cloud Engineer Projects:</h2>
 
 - PowerShell - Active Directory Home Lab
 - AWS - Deploy Static Website on AWS
 - AWS - Severless Web Application
 - AWS - Amazon Connect Call Center
 
-<h2>😄 DevOps Projects:</h2>
+<h2> DevOps Projects:</h2>
 
 - Terraform
 

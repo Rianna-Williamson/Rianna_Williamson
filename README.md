@@ -7,6 +7,10 @@
 - AWS - Severless Web Application
 - AWS - Amazon Connect Call Center
 
+<h2>😄 DevOps Projects:</h2>
+
+- Terraform
+
 <h2> Certifications</h2>
 
 - AWS re/start

@@ -6,6 +6,7 @@
 - AWS - Deploy Static Website on AWS
 - AWS - Severless Web Application
 - AWS - Amazon Connect Call Center
+- AWS - Launched website on Amazon S3
 
 <h2> DevOps Projects:</h2>
 
